@@ -7,3 +7,4 @@ Preprocessing :
 Every query is initially tokenized, after which stemming is applied in order to avoid overfitting to the same word in different forms(in terms on tense, etc.). In a way, it "normalizes" the data.
 
 
+![Screenshot from 2021-11-19 18-58-33](https://user-images.githubusercontent.com/63103172/142630718-fd8d0381-52a5-4544-b777-ae60fe2cd1b9.png)
